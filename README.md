@@ -9,5 +9,10 @@ import gym
 from gym import wrappers
 import pybullet_envs
 
+You will need to download and install Visual C++ Build Tools on this link:
+
+https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+Basically Windows just needs this in the background to get the gym environments to work.
 
 The main.py folder needs to be placed inside the PyBullet folder for the project to run.
