@@ -16,3 +16,5 @@ https://visualstudio.microsoft.com/visual-cpp-build-tools/
 Basically Windows just needs this in the background to get the gym environments to work.
 
 The main.py folder needs to be placed inside the PyBullet folder for the project to run.
+You can downlaod the PyBullets folder from the below link:
+https://drive.google.com/file/d/1Yy5Su12d5GeaNEQEEFkpTL3jhiH2-8ih/view?usp=sharing
